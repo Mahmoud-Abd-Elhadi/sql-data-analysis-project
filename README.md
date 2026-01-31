@@ -59,7 +59,7 @@ This project answers critical business questions, such as:
 ---
 
 ## 👤 Author
-**[Your Name Here]** - Data Analyst  
+**[Mahmoud Abd Elhadi]** - Data Analyst  
 [Link to your LinkedIn Profile] | [Link to Portfolio]
 
 ---
