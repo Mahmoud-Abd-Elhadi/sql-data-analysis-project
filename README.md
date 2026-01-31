@@ -62,7 +62,7 @@ This project answers critical business questions, such as:
 **Mahmoud Abd Elhadi** *Data Analyst & SQL Developer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abd-elhadi/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](حط_لينك_جيت_هب_بتاعك_هنا) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mahmoud-Abd-Elhadi) 
  
 ---
 *This project was built to demonstrate advanced SQL capabilities in Data Analysis and Engineering.*
